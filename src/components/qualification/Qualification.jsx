@@ -33,11 +33,11 @@ const Qualification = () => {
                     : "qualification__content"}>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Self-Learning</h3>
-                            <span className="qualification__subtitle">First Teacher</span>
+                            <h3 className="qualification__title">MCA</h3>
+                            <span className="qualification__subtitle">Anna University</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                2024-∞
+                                2024-2026
                             </div>
                         </div>
                         <div>
