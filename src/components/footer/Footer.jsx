@@ -22,10 +22,10 @@ const Footer = () => {
 {/*                 <a href="https://twitter.com/cyphrsylph" className="home__social-icon" target="_blank" rel="noreferrer">
                     <FiTwitter />
                 </a> */}
-                <a href="https://github.com/Jayavel006/" className="home__social-icon" target="_blank" rel="noreferrer">
+                <a href="https://github.com/mitnic-mathew-4224" className="home__social-icon" target="_blank" rel="noreferrer">
                     <FiGithub />
                 </a>
-                <a href="https://www.linkedin.com/in/jayavel-s-2b8065263/" className="home__social-icon" target="_blank" rel="noreferrer" >
+                <a href="https://www.linkedin.com/in/jithesh-kumar-j-220245285/" className="home__social-icon" target="_blank" rel="noreferrer" >
                     <FiLinkedin />
                 </a>    
             </div>

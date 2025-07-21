@@ -7,14 +7,14 @@ export const projectsData = [
     {
         id: 1,
         image: Project1,
-        title: "DGV College - Pentest",
-        category: "Pentest",
+        title: "Web Application Security Tester (WAST)",
+        category: "Network Monitoring",
     },
     {
         id: 2,
         image: Project2,
-        title: "MCC College - Pentest",
-        category: "Pentest",
+        title: "Blood Positive",
+        category: "Android",
     },
     {
         id: 3,
@@ -29,7 +29,7 @@ export const projectsNav = [
         name: "All",
     },
     {
-        name: "Pentest",
+        name: "newtwork",
     },
     {
         name: "Android",
